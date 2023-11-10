@@ -32,12 +32,14 @@ rpm -i nomachine*.rpm
 
 # CVT test script 
 
-output=$(cvt 720 1500)
-modeline=$(echo "$output" | grep -o 'Modeline "720x1500_.*"') # Need to find a way to get text after Modeline
+#output=$(cvt 720 1500)
+#modeline=$(echo "$output" | grep -o 'Modeline "720x1500_.*"') # Need to find a way to get text after Modeline
 
-if [ -n "$modeline" ]; then
-echo "$modeline" > modeline_info.txt
-echo "Modeline information saved to modeline_info.txt"
-else
-    echo "Modeline information not found in the 'cvt' output."
-fi
+#if [ -n "$modeline" ]; then
+#echo "$modeline" > modeline_info.txt
+#echo "Modeline information saved to modeline_info.txt"
+#else
+#    echo "Modeline information not found in the 'cvt' output."
+#fi
+
+#########################################################################################
