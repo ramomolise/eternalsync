@@ -1,4 +1,3 @@
-```
 # EternalSync
 
 EternalSync is a cloud-based Linux OS for mobile phones designed to provide seamless and uninterrupted synchronization and connectivity, with a specific focus on modifying virtual machines (VMs) on a local network.
@@ -46,4 +45,3 @@ Please report any issues or bugs on our [Issue Tracker](https://github.com/ramom
 ## Acknowledgments
 
 We appreciate the contributions and support of the open-source community, without whom this project would not be possible.
-```
