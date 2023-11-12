@@ -1,47 +1,48 @@
 # EternalSync
 
-EternalSync is a cloud-based Linux OS for mobile phones designed to provide seamless and uninterrupted synchronization and connectivity, with a specific focus on modifying virtual machines (VMs) on a local network.
+Welcome to the EternalSync repository! 
 
-## Project Overview
+EternalSync is a powerful set of modifications (mods) designed to enhance the remote viewing experience of full desktops on mobile phones, particularly on the Linux platform. This project prioritizes creating a seamless and efficient synchronization experience by customizing display resolutions based on the capabilities of individual mobile devices.
 
-In a world driven by connectivity, the need for a reliable and robust cloud-based OS for mobile devices cannot be overstated. EternalSync is a project that aims to deliver an elegant solution for modifying and managing virtual machines on a local network with a special focus on ensuring uninterrupted connectivity.
+## Features
 
-## Key Features
+- **Custom eResolution Mod:** This mod is dedicated to customizing display resolutions for various mobile devices, optimizing the viewing experience and improving frame rates.
 
-- **Continuous Synchronization**: EternalSync offers a real-time synchronization mechanism, ensuring that VM modifications are seamlessly integrated across your network.
+## Why EternalSync?
 
-- **Local Network Integration**: The project is tailored to work flawlessly within your local network, making it an ideal choice for managing VMs in a confined environment.
-
-- **User-Friendly Interface**: The user interface is designed to be intuitive and user-friendly, making it accessible to a wide range of users, including those without advanced technical knowledge.
-
-- **Developer-Friendly**: EternalSync is open source and provides developers with a structured platform for customization and integration with other tools and services.
+Remote viewing on mobile devices can often be a challenging experience, with issues like low frame rates and inadequate resolutions. EternalSync addresses these challenges by tailoring the viewing experience to each specific device, resulting in smoother and more responsive remote desktop interactions.
 
 ## Getting Started
 
-### Installation
+To get started with EternalSync, you can follow these steps:
 
-For installation instructions and system requirements, please check the [Installation Guide](docs/user-guide.md#installation).
+1. Clone this repository to your local machine.
+2. Check out the project's documentation and guides in the [docs](docs/) folder for detailed instructions on installation and usage.
 
-### Usage
+## Installation
 
-Please refer to our [User Guide](docs/user-guide.md) for detailed instructions on how to use EternalSync for modifying VMs on your local network.
+Detailed installation instructions for the "Custom eResolution Mod" can be found in the [mod's documentation](docs/Custom_eResolution_Mod.md).
 
-## Documentation
+## Usage
 
-Our [User Guide](docs/user-guide.md) provides comprehensive instructions for both users and administrators. Additionally, our [Developer Guide](docs/developer-guide) offers technical insights for developers interested in extending or customizing EternalSync.
+Please refer to the [mod's documentation](docs/Custom_eResolution_Mod.md) for information on how to use the "Custom eResolution Mod" effectively.
+
+## Contributing
+
+We welcome contributions from the open-source community! If you would like to contribute to EternalSync, please read our [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
 
 ## License
 
-EternalSync is open-source software licensed under the [GNU General Public License v3](LICENSE). This license ensures that derivative works must also be open source.
+This project is licensed under the [GNU General Public License version 3.0 (GPL-3.0)](LICENSE). Please see the [LICENSE](LICENSE) file for details.
 
-## Contribute
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-We welcome contributions from the community. Please review our [Contribution Guidelines](CONTRIBUTING.md) before getting started.
+## Contact
 
-## Issues
+If you have any questions, issues, or suggestions, please feel free to open an [issue](https://github.com/YourUsername/EternalSync/issues). We appreciate your feedback!
 
-Please report any issues or bugs on our [Issue Tracker](https://github.com/ramomolise/EternalSync/issues).
+---
 
-## Acknowledgments
+Thank you for visiting the EternalSync repository. We hope this project improves your mobile remote viewing experience. Enjoy!
 
-We appreciate the contributions and support of the open-source community, without whom this project would not be possible.
+Ramo Molise
