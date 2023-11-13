@@ -17,15 +17,15 @@ To get started with EternalSync on your Linux system, follow these steps:
 
     For a landscape resolution (e.g., 1280x800), add:
 
-            ```bash
-            cvt 1280 800
-            ```
+    ```bash
+    cvt 1280 800
+    ```
 
     For a portrait resolution (e.g., 800x1280), add:
 
-            ```bash
-            cvt 800 1280
-            ```
+    ```bash
+    cvt 800 1280
+    ```
 
 3. **Navigate to the 'vm' Directory:**
 
