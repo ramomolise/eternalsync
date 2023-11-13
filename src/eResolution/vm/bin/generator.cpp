@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Get CVT Info | Return Monitor Name
+// Get CVT Info 
 
 string getCVTInfo(){
 
